@@ -1,0 +1,9 @@
+dao/ConductorDAOTest.class
+dao/MantenimientoDAOTest.class
+dao/CamionDAOTest.class
+seguridad/SecurityTest.class
+modulo/UbicacionGPSTest.class
+modulo/ConductorTest.class
+modulo/CamionTest.class
+service/GpsServiceTest.class
+modulo/MantenimientoTest.class
